@@ -11,12 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Israt Zaman",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
-
+  bio: "Hi, I'm Israt Zaman, a high school senior from Queens, New York, with a passion for learning and exploring new opportunities. I'm especially interested in healthcare, science, and making positive impact in my community." 
   /*
   Optional photo:
   1. Upload a photo file to this GitHub repository.
@@ -25,7 +24,7 @@ const studentProfile = {
 
   If you do not want to use a photo, leave this as an empty string.
   */
-  photo: "",
+  photo: "profile.jpg",
 
   contact: "Contact information available upon request.",
 
@@ -39,11 +38,11 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/israt1208/1447855"
     },
     {
       title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/israt1208/1447849"
     }
   ],
 
@@ -65,7 +64,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/israt1208"
     }
   ]
 };
